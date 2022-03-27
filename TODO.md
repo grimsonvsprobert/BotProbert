@@ -1,22 +1,19 @@
 # TODO List
 
-## Version 4.2 (Goal: Middle January 2022)
+## Version 0.0.1 (Goal: March 2022)
 
-* [ ] Add a timeout command.
+* [ ] complete basic bot structure.
 
-## Version 4.3 (Goal: End February 2022)
+## Version 0.0.2 (Goal: April 2022)
 
-* [ ] Add a lock command that will let administrators temporary lock a channel, useful in case of a raid
-* [ ] Add an archive command that lets administrators archive a text channel in a text file
+* [ ] Add Transaction Reporting
 
-## No milestone
+## Version 0.0.3 (Goal: May 2022)
 
-* [ ] Add a code of conduct for the repository
-* [ ] Add a basic slur word filter
-* [ ] Add an issue and pull request template for the repository
+* [ ] Add team of the weak update
+* [ ] Add team power rankings update
 
-## Done
+## Version 0.0.4 (Goal: Before 2022 Season)
 
-* [X] Add a *"hackban"* command (ban a user by ID from a guild without the user being in it)
-* [X] Be able to save data to JSON (blacklist, owners, etc.)
-* [X] Move config to JSON
+* [ ] Add graphics for transactions
+* [ ] Add graphics for power rankings

@@ -1,14 +1,14 @@
 """"
 Copyright © Krypton 2021 - https://github.com/kkrypt0nn (https://krypt0n.co.uk)
 Description:
-This is a template to create your own discord bot in python.
+Bot Probert has been developed using a template developed by Krypton. It integrates with Yahoo Fantasy to provide league updates to your discord server
 
-Version: 4.1
+Version: 0.0.1
 """
 
 import json
 import os
-import platform
+import platfor
 import random
 import sys
 
